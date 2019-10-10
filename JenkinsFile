@@ -36,6 +36,7 @@ pipeline {
                 echo "TODO : deliver"
             }
          }
+    }
     post{
                 always {
                     echo "pipeline finished!"
@@ -50,4 +51,4 @@ pipeline {
                     echo "1 super gommette pour le pipeline"
                 }
             }
-}
+   }
