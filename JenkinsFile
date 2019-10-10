@@ -6,11 +6,12 @@ pipeline {
             steps{
                 bat "mvn clean compile"
             }
+        }
             
-         stage('test'){
+        stage('test'){
             steps{
                 bat "mvn test"
-                }
+            }
         }
     }
 
