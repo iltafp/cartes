@@ -47,7 +47,7 @@ public class PokerWindow extends JFrame {
 		JPanel panelDraw = new JPanel();
 		panelDraw.setLayout(new BoxLayout(panelDraw,BoxLayout.Y_AXIS ));
 		JPanel panelButtons = new JPanel();
-		panelButtons.setBackground(Color.RED);
+		panelButtons.setBackground(Color.BLUE);
 		buttonDraw = new JButton("Draw");
 		panelButtons.add(buttonDraw);
 		buttonShuffle = new JButton("Shuffle");
