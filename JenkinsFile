@@ -33,7 +33,7 @@ pipeline {
     }
     stage ('deliver'){
             steps {
-                echo "TODO : deliver"
+                echo "scripts\\deliver.bat"
             }
          }
     }
