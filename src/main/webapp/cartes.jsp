@@ -8,6 +8,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Super Poker Las Vegas</title>
+<link rel="stylesheet" type="text/css" href="CSS/main.css">
 </head>
 <body>
 <% 

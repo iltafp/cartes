@@ -1,0 +1,17 @@
+body {
+	background-color: yellow;
+}
+
+main {
+	display
+	flex-direction: row;
+}
+
+#deck-section {
+	background-color: purple;
+}
+
+#board-section {
+	background-color: green;
+}
+
